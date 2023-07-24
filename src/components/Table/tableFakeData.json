@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "time": "2023-07-07 22:59:30",
+        "member": "System",
+        "action": "Follow Match",
+        "market": "-",
+        "handicap": "-",
+        "outcome": "-",
+        "adjustValue": "+0.02",
+        "originOdds": "-",
+        "afterOdds": "-",
+        "comment": "Set match In-Play"
+    },
+    {
+        "id": 2,
+        "time": "2023-07-07 13:59:07",
+        "member": "Trade member 1",
+        "action": "Odds Adjustment",
+        "market": "1X2",
+        "handicap": "-",
+        "outcome": "home",
+        "adjustValue": "+0.02",
+        "originalOdds": "1.2",
+        "afterOdds": "3.13",
+        "comment": ""
+    },
+    {
+        "id": 3,
+        "time": "2023-07-06 11:24:47",
+        "member": "Trade member 1",
+        "action": "Open Market",
+        "market": "ah",
+        "handicap": "-0.5/1",
+        "outcome": "-",
+        "adjustValue": "+0.02",
+        "originOdds": "-",
+        "afterOdds": "3.13",
+        "comment": ""
+    }
+]
